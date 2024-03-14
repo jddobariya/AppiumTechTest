@@ -4,5 +4,5 @@ To Do list
 - extension methods for webdriver wait
 - Start appium service programmatically
 - Remove the uninstall app from the hooks to improve test execution times
-- Better strategy for locations on pages
+- Better strategy for locators on pages
 - Finish the remaining step implementation
